@@ -1,3 +1,7 @@
+![version](https://img.shields.io/badge/version-1.0.0-blue)
+![tests](https://img.shields.io/badge/tests-pass-green)
+
+
 # Documentation for chemexpy package
 
 ### Package version: v1.0.0
