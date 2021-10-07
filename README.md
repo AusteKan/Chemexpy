@@ -9,6 +9,7 @@
 ### Package version: v1.0.10
 ### Date: 10/06/2021
 ### Author: Auste Kanapeckaite
+### PyPi: ![link](https://pypi.org/project/chemexpy/)
 
 
 ## The package contains the following functions:
