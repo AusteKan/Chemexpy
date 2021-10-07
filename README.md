@@ -1,10 +1,12 @@
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![tests](https://img.shields.io/badge/tests-pass-green)
-
+![wheel](https://img.shields.io/pypi/wheel/chemexpy)
+![Pypi](https://img.shields.io/pypi/v/chemexpy)
+![license](https://img.shields.io/pypi/l/chemexpy)
 
 # Documentation for chemexpy package
 
-### Package version: v1.0.0
+### Package version: v1.0.10
 ### Date: 10/06/2021
 ### Author: Auste Kanapeckaite
 
